@@ -1,0 +1,1 @@
+{"ast":null,"code":"global.link = \"http://b222-39-50-101-46.ngrok.io\";","map":{"version":3,"sources":["D:/JudicialDairyAPP/screens/link.js"],"names":["global","link"],"mappings":"AAAAA,MAAM,CAACC,IAAP,GAAc,mCAAd","sourcesContent":["global.link = \"http://b222-39-50-101-46.ngrok.io\"; "]},"metadata":{},"sourceType":"script"}
