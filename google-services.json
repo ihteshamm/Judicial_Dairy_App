@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567897009135",
+    "project_id": "judicialchat",
+    "storage_bucket": "judicialchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567897009135:android:a02b096b9069d27dc6641a",
+        "android_client_info": {
+          "package_name": "Judicial.Dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567897009135-n02rqkf6p8gsa2qlm50f0tukmg1nb5vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruzW5zBBCq0fRZx9MLaC7WAU5xhkyalQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567897009135-n02rqkf6p8gsa2qlm50f0tukmg1nb5vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
